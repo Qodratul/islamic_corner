@@ -1,4 +1,5 @@
 import "../../../App.css";
+import "../../../../public/icons/whitelogo.svg";
 import { useNavigate } from "react-router-dom";
 
 export const NavBar = () => {
