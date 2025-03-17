@@ -1,12 +1,15 @@
-# React + Vite
+#📖 Quran App
+Aplikasi Quran berbasis web yang simpel dan elegan, menggunakan Equran API & MyQuran API untuk menampilkan daftar surah, teks Al-Quran, terjemahan, dan audio murottal.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##✨ Fitur
+🔍 Cari Surah dengan mudah
+🎵 Dengar Murottal dari berbagai qari
+📖 Lihat Detail Surah lengkap dengan terjemahan
+📱 Desain Responsif cocok untuk semua perangkat
+🚀 Cara Install
 
-Currently, two official plugins are available:
+##🔗 API yang Digunakan
+Equran API
+MyQuran API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+#⚡ Kontribusi & saran selalu diterima! 🙌
