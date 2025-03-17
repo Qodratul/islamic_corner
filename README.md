@@ -7,7 +7,7 @@ Aplikasi Quran berbasis web yang simpel dan elegan, menggunakan Equran API & MyQ
 - 📖 Lihat Detail Surah lengkap dengan terjemahan
 
 ## 🔗 API yang Digunakan
-Equran API
-MyQuran API
+- Equran API
+- MyQuran API
 
 # ⚡ Kontribusi & saran selalu diterima! 🙌
